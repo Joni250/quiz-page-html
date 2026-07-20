@@ -26,6 +26,15 @@ https://github.com/Joni250/quiz-page-html
 
 ---
 
+## 📁 Project Structure
+
+```text
+quiz-page-html/
+│── index.html
+│── preview.png
+│── README.md
+```
+
 ## ✨ Features
 
 - ✅ Clean and responsive layout
@@ -46,14 +55,6 @@ https://github.com/Joni250/quiz-page-html
 
 ---
 
-## 📁 Project Structure
-
-```text
-quiz-page-html/
-│── index.html
-│── preview.png
-│── README.md
-```
 
 ---
 
